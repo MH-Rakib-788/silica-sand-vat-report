@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silica Sand পণ্যের ভ্যাট অব্যাহতি ও উৎসে মূসক কর্তন পর্যালোচনা</title>
+    <!-- Tailwind CSS from CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hind+Siliguri:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Custom styles */
+        body {
+            font-family: 'Hind Siliguri', 'Inter', sans-serif;
+            background-color: #f8fafc; /* Tailwind's gray-50 */
+        }
+        /* Style for the modal */
+        .modal {
+            transition: opacity 0.25s ease;
+        }
+        .modal-content {
+            transition: transform 0.25s ease;
+        }
+        /* Custom button style */
+        .reference-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem; /* 8px */
+            padding: 0.5rem 1rem; /* 8px 16px */
+            background-color: #3b82f6; /* Tailwind's blue-500 */
+            color: white;
+            border-radius: 0.375rem; /* rounded-md */
+            font-weight: 500;
+            transition: background-color 0.2s;
+            cursor: pointer;
+            border: none;
+        }
+        .reference-btn:hover {
+            background-color: #2563eb; /* Tailwind's blue-600 */
+        }
+        .reference-btn svg {
+            width: 1.25rem; /* 20px */
+            height: 1.25rem; /* 20px */
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <!-- Main Content Container -->
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="mb-8 text-center">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Silica Sand পণ্যের উপর ভ্যাট পর্যালোচনা</h1>
+            <p class="text-lg text-gray-600 mt-2">অব্যাহতি ও উৎসে মূসক কর্তন (VDS) এর আইনি পর্যালোচনা (অর্থবছর ২০১৬-১৭ থেকে ২০২১-২২)</p>
+        </header>
+
+        <main class="bg-white p-6 md:p-8 rounded-lg shadow-md">
+            <!-- Section: Basis of Review -->
+            <section class="mb-6 border-b pb-4">
+                <h2 class="text-2xl font-semibold mb-3 text-gray-800">পর্যালোচনার ভিত্তি</h2>
+                <ul class="list-disc list-inside space-y-2 text-gray-700">
+                    <li>মূল্য সংযোজন কর আইন, ১৯৯১ (ধারা-৩ এবং প্রথম তফসিল)</li>
+                    <li>মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (ধারা-২৬, ধারা-৪৯)</li>
+                    <li>মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬</li>
+                    <li>জাতীয় রাজস্ব বোর্ড কর্তৃক জারিকৃত এসআরও (S.R.O.)</li>
+                </ul>
+            </section>
+
+            <!-- Section: VAT Exemption Review -->
+            <section class="mb-6 border-b pb-4">
+                <h2 class="text-2xl font-semibold mb-4 text-gray-800">অর্থবছর অনুযায়ী ভ্যাট অব্যাহতি পর্যালোচনা</h2>
+                
+                <!-- Subsection: 2016-2019 -->
+                <div class="mb-6 p-4 bg-gray-50 rounded-lg">
+                    <h3 class="text-xl font-semibold mb-2 text-gray-700">অর্থবছর: ২০১৬-২০১৭, ২০১৭-২০১৮ এবং ২০১৮-২০১৯</h3>
+                    <p class="mb-2"><strong class="font-medium">প্রযোজ্য আইন:</strong> মূল্য সংযোজন কর আইন, ১৯৯১।</p>
+                    <p class="mb-3">
+                        <strong class="font-medium">আইনি ব্যাখ্যা:</strong> উক্ত আইনের ধারা-৩ অনুযায়ী সকল পণ্যের উপর মূল্য সংযোজন কর আরোপের বিধান থাকলেও, আইনের প্রথম তফসিলে উল্লিখিত পণ্যসমূহকে কর থেকে অব্যাহতি প্রদান করা হয়েছে। Silica Sand উক্ত তফসিলে একটি অব্যাহতিপ্রাপ্ত পণ্য হিসেবে তালিকাভুক্ত ছিল।
+                    </p>
+                    <p class="mb-4">
+                        <strong class="font-medium">সিদ্ধান্ত:</strong> যেহেতু Silica Sand পণ্যটি তৎকালীন আইনের প্রথম তফসিল দ্বারা অব্যাহতিপ্রাপ্ত ছিল, তাই এই অর্থবছরগুলোতে এই পণ্যের উৎপাদন, সরবরাহ বা আমদানি পর্যায়ে কোনো মূল্য সংযোজন কর প্রযোজ্য ছিল না।
+                    </p>
+                    <button class="reference-btn" onclick="showPdfModal('https://storage.googleapis.com/gemini-prod-us-central1-gd-scratch-0/uploaded_files/Schedule%20(VAT%20Exemption%20List)%20VAT%20ACT%20-1991.pdf')">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" /></svg>
+                        রেফারেন্স দেখুন (১৯৯১ আইন)
+                    </button>
+                </div>
+
+                <!-- Subsection: 2019-2022 -->
+                <div class="p-4 bg-gray-50 rounded-lg">
+                    <h3 class="text-xl font-semibold mb-2 text-gray-700">অর্থবছর: ২০১৯-২০২০, ২০২০-২০২১ এবং ২০২১-২০২২</h3>
+                    <p class="mb-2"><strong class="font-medium">প্রযোজ্য আইন:</strong> মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২।</p>
+                    <p class="mb-3">
+                        <strong class="font-medium">আইনি ব্যাখ্যা:</strong> এই নতুন আইনের ধারা-২৬ অনুযায়ী, আইনের প্রথম তফসিলে বর্ণিত পণ্য বা সেবার সরবরাহের উপর মূল্য সংযোজন কর অব্যাহতিপ্রাপ্ত হবে। Silica Sand পণ্যটিকে নতুন আইনের প্রথম তফসিলেও অব্যাহতিপ্রাপ্ত পণ্য হিসেবে অন্তর্ভুক্ত করা হয়েছে।
+                    </p>
+                    <p class="mb-4">
+                        <strong class="font-medium">সিদ্ধান্ত:</strong> নতুন আইন কার্যকর হওয়ার পরেও Silica Sand পণ্যের অব্যাহতি সুবিধা বহাল থাকে। ফলে, এই অর্থবছরগুলোতে এই পণ্যের উপর কোনো মূল্য সংযোজন কর আরোপযোগ্য ছিল না।
+                    </p>
+                    <button class="reference-btn" onclick="showPdfModal('https://storage.googleapis.com/gemini-prod-us-central1-gd-scratch-0/uploaded_files/1st%20Schedule%20(VAT%20Exemption%20List)%20VAT%20&%20SD%20ACT%20-2012.pdf')">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" /></svg>
+                        রেফারেন্স দেখুন (২০১২ আইন)
+                    </button>
+                </div>
+            </section>
+
+            <!-- Section: VDS Applicability -->
+            <section class="mb-6 border-b pb-4">
+                <h2 class="text-2xl font-semibold mb-3 text-gray-800">উৎসে মূসক কর্তন (VDS) প্রযোজ্যতা</h2>
+                <p class="mb-3">উৎসে মূসক কর্তন (VAT Deduction at Source - VDS) হলো এমন একটি ব্যবস্থা যেখানে পণ্য বা সেবা গ্রহণকারী প্রতিষ্ঠান সরবরাহকারীকে মূল্য পরিশোধের সময় প্রযোজ্য মূসক বা ভ্যাট কেটে রেখে সরকারি কোষাগারে জমা দেয়।</p>
+                <p class="mb-3"><strong class="font-medium">আইনি বিধান:</strong> মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ৪৯ এবং মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা, ২০১৬ এর বিধান অনুযায়ী উৎসে মূসক কর্তন করা হয়।</p>
+                <p class="mb-3"><strong class="font-medium">প্রযোজ্যতা বিশ্লেষণ:</strong> উৎসে মূসক কর্তনের মূলনীতি হলো, এটি কেবল করযোগ্য (Taxable) পণ্য বা সেবার সরবরাহের উপর প্রযোজ্য হয়। যে সকল পণ্য বা সেবা আইনের প্রথম তফসিল অনুযায়ী সম্পূর্ণ অব্যাহতিপ্রাপ্ত, সেগুলোর সরবরাহের বিপরীতে মূল্য পরিশোধের সময় কোনো উৎসে মূসক কর্তন প্রযোজ্য হয় না।</p>
+                <p><strong class="font-medium">Silica Sand এর ক্ষেত্রে সিদ্ধান্ত:</strong> যেহেতু "Silica Sand" (H.S. Code: 2505.10.00) পণ্যটি একটি সম্পূর্ণ অব্যাহতিপ্রাপ্ত পণ্য, তাই এর সরবরাহকারীকে মূল্য পরিশোধের সময় উৎসে মূসক কর্তন (VDS) করার কোনো আইনি বাধ্যবাধকতা নেই।</p>
+            </section>
+            
+            <!-- Section: Final Summary -->
+            <section>
+                <h2 class="text-2xl font-semibold mb-3 text-gray-800">চূড়ান্ত সারসংক্ষেপ</h2>
+                <div class="bg-blue-50 border-l-4 border-blue-500 text-blue-800 p-4 rounded-r-lg">
+                    <p class="mb-2">পর্যালোচনা থেকে এটি স্পষ্ট যে, "Silica Sand" (H.S. Code: 2505.10.00) পণ্যটি উল্লেখিত সময়কালে অর্থাৎ ২০১৬-২০১৭ অর্থবছর থেকে ২০২১-২০২২ অর্থবছর পর্যন্ত ধারাবাহিকভাবে একটি মূল্য সংযোজন কর অব্যাহতিপ্রাপ্ত পণ্য।</p>
+                    <ul class="list-disc list-inside space-y-1">
+                        <li><strong class="font-medium">ভ্যাট অব্যাহতি:</strong> ২০১৬ থেকে ২০১৯ পর্যন্ত মূল্য সংযোজন কর আইন, ১৯৯১ এবং ২০১৯ থেকে ২০২২ পর্যন্ত মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর প্রথম তফসিলের অধীনে এই পণ্যের উপর ভ্যাট অব্যাহতি বলবৎ ছিল।</li>
+                        <li><strong class="font-medium">উৎসে মূসক কর্তন (VDS):</strong> পণ্যটি সম্পূর্ণ ভ্যাট অব্যাহতিপ্রাপ্ত হওয়ায়, এর সরবরাহের বিপরীতে কোনো পর্যায়েই উৎসে মূসক কর্তন প্রযোজ্য নয়।</li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- PDF Viewer Modal -->
+    <div id="pdf-modal" class="modal fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4 hidden" onclick="closePdfModal()">
+        <div class="modal-content bg-white rounded-lg shadow-xl w-full h-full max-w-4xl max-h-[90vh] flex flex-col transform scale-95" onclick="event.stopPropagation()">
+            <div class="flex justify-between items-center p-4 border-b">
+                <h3 class="text-xl font-semibold">রেফারেন্স ডকুমেন্ট</h3>
+                <button id="close-modal-btn" class="text-gray-500 hover:text-gray-800 text-3xl font-bold">&times;</button>
+            </div>
+            <div class="flex-grow p-2">
+                <embed id="pdf-embed" src="" type="application/pdf" class="w-full h-full">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get modal elements
+        const modal = document.getElementById('pdf-modal');
+        const modalContent = modal.querySelector('.modal-content');
+        const pdfEmbed = document.getElementById('pdf-embed');
+        const closeModalBtn = document.getElementById('close-modal-btn');
+
+        /**
+         * Shows the PDF modal with the specified PDF source URL.
+         * @param {string} pdfSrc - The URL of the PDF to display.
+         */
+        function showPdfModal(pdfSrc) {
+            if (!modal || !pdfEmbed) return;
+            pdfEmbed.setAttribute('src', pdfSrc);
+            modal.classList.remove('hidden');
+            // Animate in
+            setTimeout(() => {
+                modal.classList.remove('opacity-0');
+                modalContent.classList.remove('scale-95');
+                modal.classList.add('opacity-100');
+                modalContent.classList.add('scale-100');
+            }, 10); // A small delay to ensure CSS transition applies
+        }
+
+        /**
+         * Closes the PDF modal.
+         */
+        function closePdfModal() {
+            if (!modal || !pdfEmbed) return;
+             // Animate out
+            modal.classList.remove('opacity-100');
+            modalContent.classList.remove('scale-100');
+            modal.classList.add('opacity-0');
+            modalContent.classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+                pdfEmbed.setAttribute('src', ''); // Clear src to stop loading
+            }, 250); // Match transition duration
+        }
+
+        // Event listener for the close button
+        closeModalBtn.addEventListener('click', closePdfModal);
+    </script>
+
+</body>
+</html>
